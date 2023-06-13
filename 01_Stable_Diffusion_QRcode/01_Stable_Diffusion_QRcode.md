@@ -2,7 +2,7 @@
 
 时间：2023年6月13日
 
-最近，基于Stable Diffusion的二维码在网络上引起了不小的关注，但是由于没有官方开源的工具，而我又对这个十分感兴趣，因此本文件旨在使用Stable Diffusion的基本使用方法来进行AI二维码的制作。
+最近，[基于Stable Diffusion的二维码](https://mp.weixin.qq.com/s/8Pl2Dxuf4bHcMpYXdpGh6g)在网络上引起了不小的关注，但是由于没有官方开源的工具，而我又对这个方面很感兴趣，因此本文件旨在使用Stable Diffusion的基本使用方法来进行AI二维码的制作。
 
 先放生成结果
 
